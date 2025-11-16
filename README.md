@@ -93,7 +93,7 @@ python firewall_gui.py
 
     Export rules to firewall_rules.txt for backup or analysis.
 
-## 🛣️ Roadmap
+## **🛣️ Roadmap**
 
 - [ ] Real-time traffic logs
 - [ ] Advanced SIEM-style alert panel
